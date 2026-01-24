@@ -1,4 +1,20 @@
 # Ignore all FITS files
 *.fits
+
 # Ignore the entire data folder
 data/
+
+# Ignore the virtual environment
+env/
+venv/
+.env/
+
+# Ignore Python cache files
+__pycache__/
+*.pyc
+
+# Ignore your data (just in case)
+data/
+*.fits
+
+notebooks/Per_Pro/
