@@ -1,0 +1,4 @@
+# Ignore all FITS files
+*.fits
+# Ignore the entire data folder
+data/
